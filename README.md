@@ -1,11 +1,7 @@
-# Portfolio 
+# Portfolio
 
+Hi! Welcome to my Github
 
-## Changes Made 
-------------------
+### Acknowledgments
 
-
-
-### Acknowledgments 
-------------------------------
-[Template](https://www.youtube.com/watch?v=AKNvTxWOdKw&ab_channel=Bedimcode)
+#### [Template](https://www.youtube.com/watch?v=AKNvTxWOdKw&ab_channel=Bedimcode)
