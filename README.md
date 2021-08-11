@@ -1,6 +1,6 @@
 # Portfolio
 
-Hi! Welcome to my Github
+Hi! Welcome to my Portfolio Repo, you will find the changes made [Here](https://github.com/GoldenTBE/GoldenTBE.github.io/blob/master/updatelog.md).
 
 ### Acknowledgments
 
