@@ -14,3 +14,9 @@
 ### 8/10/21
 
 - Fixed README.md
+
+## `Update Version 0.2.0`
+
+### 8/22/21
+
+- Updated Resume & changed index.html to match file name.
