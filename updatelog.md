@@ -20,3 +20,9 @@
 ### 8/22/21
 
 - Updated Resume & changed index.html to match file name.
+
+## `Update Version 0.2.1`
+
+### 8/22/21
+
+-Removed .DS_Store from repo.
