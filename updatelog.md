@@ -26,3 +26,9 @@
 ### 8/22/21
 
 -Removed .DS_Store from repo.
+
+## `Update Version 0.2.2`
+
+### 8/26/21
+
+-Fixed Header (was pulling old resume: Edited about & projects .html)
