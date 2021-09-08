@@ -32,3 +32,9 @@
 ### 8/26/21
 
 -Fixed Header (was pulling old resume: Edited about & projects .html)
+
+## `Update Version 0.2.3`
+
+### 9/8/21
+
+-Updated Resume (made it easier for future changes )
