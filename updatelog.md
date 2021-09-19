@@ -38,3 +38,9 @@
 ### 9/8/21
 
 -Updated Resume (made it easier for future changes )
+
+## `Update Version 0.2.4`
+
+### 9/19/21
+
+-Fixed Broken Link in projects.html
