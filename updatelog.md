@@ -44,3 +44,9 @@
 ### 9/19/21
 
 -Fixed Broken Link in projects.html
+
+## `Update Version 0.3.4`
+
+### 10/31/21
+
+-Added Project to projects.html
