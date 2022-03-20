@@ -58,3 +58,9 @@
 - Added Crypto section
 - Changes to color on website
 - Changes to about me
+
+## `Update Version 1.4.4`
+
+### 3/20/22
+
+- Changed index.html to open new tab instead of on website.
