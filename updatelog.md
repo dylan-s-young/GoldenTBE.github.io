@@ -25,28 +25,36 @@
 
 ### 8/22/21
 
--Removed .DS_Store from repo.
+- Removed .DS_Store from repo.
 
 ## `Update Version 0.2.2`
 
 ### 8/26/21
 
--Fixed Header (was pulling old resume: Edited about & projects .html)
+- Fixed Header (was pulling old resume: Edited about & projects .html)
 
 ## `Update Version 0.2.3`
 
 ### 9/8/21
 
--Updated Resume (made it easier for future changes )
+- Updated Resume (made it easier for future changes )
 
 ## `Update Version 0.2.4`
 
 ### 9/19/21
 
--Fixed Broken Link in projects.html
+- Fixed Broken Link in projects.html
 
 ## `Update Version 0.3.4`
 
 ### 10/31/21
 
--Added Project to projects.html
+- Added Project to projects.html
+
+## `Update Version 1.3.4`
+
+### 3/20/22
+
+- Added Crypto section
+- Changes to color on website
+- Changes to about me
