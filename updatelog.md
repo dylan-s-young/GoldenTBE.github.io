@@ -64,3 +64,10 @@
 ### 3/20/22
 
 - Changed index.html to open new tab instead of on website.
+
+## `Update Version 1.5.4`
+
+### 8/8/22
+
+- Changed crypto.html text
+- Changed photo in crypto.html
