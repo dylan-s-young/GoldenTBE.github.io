@@ -71,3 +71,10 @@
 
 - Changed crypto.html text
 - Changed photo in crypto.html
+
+## `Update Version 1.5.5`
+
+### 8/10/22
+
+- Fixes to description
+- Fixed Photo
