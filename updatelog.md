@@ -78,3 +78,11 @@
 
 - Fixes to description
 - Fixed Photo
+
+## `Update Version 1.6.0`
+
+### 10/12/22
+
+- Updated Resume
+- Changed about.html
+- Changed Crypto.html
