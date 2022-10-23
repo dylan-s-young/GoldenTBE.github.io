@@ -86,3 +86,9 @@
 - Updated Resume
 - Changed about.html
 - Changed Crypto.html
+
+## `Update Version 1.6.1`
+
+### 10/12/22
+
+- Grammer Change Resume
