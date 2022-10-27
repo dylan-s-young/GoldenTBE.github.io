@@ -92,3 +92,9 @@
 ### 10/12/22
 
 - Grammer Change Resume
+
+## `Update Version 1.6.2`
+
+### 10/12/22
+
+- More Tweaks to Resume
