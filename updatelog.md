@@ -89,12 +89,19 @@
 
 ## `Update Version 1.6.1`
 
-### 10/12/22
+### 10/23/22
 
 - Grammer Change Resume
 
 ## `Update Version 1.6.2`
 
-### 10/12/22
+### 10/27/22
 
 - More Tweaks to Resume
+
+## `Update Version 1.6.3`
+
+### 10/31/22
+
+- More Changes
+- Updated dates of other commits
