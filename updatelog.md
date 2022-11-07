@@ -105,3 +105,9 @@
 
 - More Changes
 - Updated dates of other commits
+
+## `Update Version 1.6.4`
+
+### 11/6/22
+
+- More Changes to Resume
